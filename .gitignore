@@ -1,0 +1,6 @@
+src/x_train.joblib
+src/y_train.joblib
+src/x_val.joblib
+src/y_val.joblib
+src/x_test.joblib
+src/y_test.joblib
